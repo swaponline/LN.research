@@ -1,4 +1,5 @@
-#229 LN.OnewayChannel.research
+# LN.OnewayChannel.research
+#229
 lightning network one way channel prototype
 
 video with demonstration working program:
